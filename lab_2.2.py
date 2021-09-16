@@ -1,7 +1,7 @@
 # author: CMOB 9/15/2021
 
 a = 3
-b = a 
+b = a
 
 print(a)
 print(b)
